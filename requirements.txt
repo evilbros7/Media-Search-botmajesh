@@ -1,6 +1,6 @@
 pyrogram
 tgcrypto
-pymongo
+pymongo==3.11
 motor
 marshmallow
 umongo
